@@ -14,8 +14,8 @@ Features:
 
 Known Issues / To Do:
 - Spacing is broken for text wrapping (you need to hit enter to start a new paragraph for each line)
-- Default container when creating a page is Your Name instead of main content - would be nice to move header if possible
-- Date should be auto-filled when page is created
+- Default container when creating a page is Your Name instead of main content
+- Date should be auto-filled when page is created - similar to default OneNote title/header
 
 Background image from:
 https://commons.wikimedia.org/wiki/File:Engineering-pad-simulation.png
